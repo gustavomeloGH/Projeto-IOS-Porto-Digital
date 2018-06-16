@@ -1,0 +1,6 @@
+framework module Pods_ProjectCompQuizUITests {
+  umbrella header "Pods-ProjectCompQuizUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
