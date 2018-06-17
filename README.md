@@ -25,22 +25,22 @@ Aplicativo feito para o projeto do curso de IOS pelo Porto Digital
 <h3><svg aria-hidden="true" class="octicon octicon-link" height="16" version="1.1" viewBox="0 0 16 16" width="16"></svg></a>Especificações do projeto pelo Curso: </h3>
 <ul>
   <li>
-    <p>Pelo menos uma Table View</p>
+    <p>Utilização de Table View;</p>
   </li>
   <li>
-    <p>App com mais de 2 telas</p>
+    <p>App com mais de 2 telas;</p>
   </li>
     <li>
-    <p>Utilização de Scroll View</p>
+    <p>Utilização de Scroll View;</p>
   </li>
       <li>
-    <p>Utilização de Navigation Controller ou Tab Bar</p>
+    <p>Utilização de Navigation Controller ou Tab Bar;</p>
   </li>
    <li>
-    <p>Auto-layout para todas as telas de quaisquer Iphone (Uso de constraints e alinhamentos)</p>
+    <p>Auto-layout para todas as telas de quaisquer Iphone (Uso de constraints e alinhamentos);</p>
   </li>
      <li>
-    <p>Ter uma aplicação real</p>
+    <p>Ter uma aplicação real.</p>
   </li>
 </ul>
 
