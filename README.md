@@ -10,6 +10,9 @@ Aplicativo feito para o projeto do curso de IOS pelo Porto Digital
   <li>
     <p>Fireabase - Database</p>
   </li>
+    <li>
+    <p>Versão do xcode - Version 8.2.1 (8C1002)</p>
+  </li>
 </ul>
 
 <h3><svg aria-hidden="true" class="octicon octicon-link" height="16" version="1.1" viewBox="0 0 16 16" width="16"></svg></a>Sobre o projeto: </h3>
